@@ -1,16 +1,6 @@
-# test_flutter_1
+# Tugas 2 Mobile Programing (Membuat layout Profil)
 
-A new Flutter project.
+065119017 Bagus Wahyu M 6A
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshot Hasil Code
+![Tugas2_065119017_Bagus Wahyu Mediansyah_6A](https://user-images.githubusercontent.com/101030065/161040710-25e04964-edf6-426b-b7fe-aeca91188a65.png)
